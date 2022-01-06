@@ -21,4 +21,4 @@
 - Intern Web & UI Design at [Grappik](https://www.grappik.com/)
 ## :chart_with_upwards_trend: GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToomTammer&show_icons=true&theme=radical)
-[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToomTammer&layout=compact&theme=radical)](https://github.com/faiichann/github-readme-stats)
+[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToomTammer&layout=compact&theme=radical)](https://github.com/ToomTammer/github-readme-stats)
