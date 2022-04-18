@@ -5,7 +5,7 @@
 - :envelope: You can shoot me an email at sm.suparerk@gmail.com! I'll try to respond as soon as I can.
 ## :triangular_ruler: Tech Stack
 #### Languages and Tools
-- HTML, CSS, JavaScript, Python, C++, C, GitHub,SQL
+- HTML, CSS, JavaScript, Python, C++, C, Python, Java, GitHub,SQL
 #### Softwares
 - ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
