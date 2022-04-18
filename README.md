@@ -8,7 +8,7 @@
 ## :triangular_ruler: Tech Stack
 #### Languages and Tools
 - HTML, CSS/Bootstrap, JavaScript, jQuery, Python, C++, C, Python, Java, SQL, ASP.NET CORE MVC
-####Tools
+#### Tools
 - GitHub
 #### Softwares
 - ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
