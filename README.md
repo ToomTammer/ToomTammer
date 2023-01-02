@@ -3,8 +3,6 @@
 ## :clipboard:  About Me
 - :mortar_board: I'm currently studying Computer Science and Multimedia at the King Mongkut's University of Technology Thonburi.
 - :envelope: You can shoot me an email at sm.suparerk@gmail.com! I'll try to respond as soon as I can.
-## Behance
-- https://www.behance.net/suparerk/moodboards
 ## :triangular_ruler: Tech Stack
 #### Languages and Tools
 - HTML, CSS/Bootstrap, JavaScript, jQuery, Python, C++, C, Python, Java, SQL, ASP.NET CORE MVC
