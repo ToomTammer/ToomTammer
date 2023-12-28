@@ -2,7 +2,7 @@
 :sunflower: Welcome to My Github Profile
 ## :clipboard:  About Me
 - :mortar_board: I graduated in Computer Science and Multimedia from King Mongkut's University of Technology Thonburi.
-- :envelope: You can shoot me an email at suparerkmantham@gmail.com! I'll try to respond as soon as I can.
+- :envelope: You can shoot me an email at suparerk.manth@gmail.com! I'll try to respond as soon as I can.
 ## 🛠  Tech Stack
 - 💻 &nbsp; Frontend |
 [ Vue.js, Angular, JavaScript, HTML, CSS, GSAP, Three.js ]
