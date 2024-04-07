@@ -5,9 +5,9 @@
 - :envelope: You can shoot me an email at suparerk.manth@gmail.com! I'll try to respond as soon as I can.
 ## 🛠  Tech Stack
 - 💻 &nbsp; Frontend |
-[ Vue.js, Angular, JavaScript, TypeScript, HTML, CSS, GSAP, Three.js ]
+[ Vue.js, Angular, TypeScript, GSAP, Three.js ]
 - 🌐 &nbsp; Backend |
-[ C#, .NET Core, Python ]
+[ C#, .NET Core, Node.js, Express.js ]
 - 🔭 &nbsp; Mobile |
 [ Android Studio, Flutter, Utiny ]
 - ✍️ &nbsp; Methodlogy |
