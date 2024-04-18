@@ -10,8 +10,10 @@
 [ C#, .NET Core, Node.js, Express.js ]
 - 🔭 &nbsp; Mobile |
 [ Android Studio, Flutter, Utiny ]
+- 💾 &nbsp; Database |
+- [ MongoDB, MySQL]
 - ✍️ &nbsp; Methodlogy |
-[ Git, GitHub, Fork, Slack, Visual Studio Code, Firebase ]
+[ Git, GitHub, Firebase, Fork, Slack, Visual Studio Code ]
 ## :briefcase: Work Experience
 - Jr. Full Stack Developer at [zipevent](zipevent)
 - Intern Web & UI Design at [Grappik](Grappik)
