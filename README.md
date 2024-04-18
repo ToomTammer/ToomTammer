@@ -11,7 +11,7 @@
 - 🔭 &nbsp; Mobile |
 [ Android Studio, Flutter, Utiny ]
 - 💾 &nbsp; Database |
-- [ MongoDB, MySQL]
+[ MongoDB, MySQL]
 - ✍️ &nbsp; Methodlogy |
 [ Git, GitHub, Firebase, Fork, Slack, Visual Studio Code ]
 ## :briefcase: Work Experience
